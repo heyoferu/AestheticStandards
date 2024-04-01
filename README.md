@@ -33,7 +33,7 @@ En esta sección, proporcionamos recomendaciones sobre cómo nombrar tus proyect
 
 3. **Unicidad:** Cada nombre de proyecto debe ser único para evitar duplicidades dentro del mismo espacio de trabajo o entre espacios de trabajo similares.
 
-4. **No Incluir Caracteres Especiales:** Evita el uso de caracteres especiales como `!`, `@`, `#`, `$`, `%`, `^`, `&`, `*`, `(`, `)`, excepto el guion bajo `_` y `-`.
+4. **No Incluir Caracteres Especiales:** Evita el uso de caracteres especiales como `!`, `@`, `#`, `$`, `%`, `^`, `&`, `*`, `(`, `)`, excepto el guion bajo `_` y guion `-`.
 
 #### Reglas de Componentes
 
