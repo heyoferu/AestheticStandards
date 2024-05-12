@@ -1,24 +1,4 @@
-<pre>
-           ,ggg,                                                                                      
-          dP""8I                        I8    ,dPYb,               I8                                 
-         dP   88                        I8    IP'`Yb               I8                                 
-        dP    88                     88888888 I8  8I            88888888  gg                          
-       ,8'    88                        I8    I8  8'               I8     ""                          
-       d88888888    ,ggg,     ,g,       I8    I8 dPgg,    ,ggg,    I8     gg     ,gggg,               
- __   ,8"     88   i8" "8i   ,8'8,      I8    I8dP" "8I  i8" "8i   I8     88    dP"  "Yb              
-dP"  ,8P      Y8   I8, ,8I  ,8'  Yb    ,I8,   I8P    I8  I8, ,8I  ,I8,    88   i8'                    
-Yb,_,dP       `8b, `YbadP' ,8'_   8)  ,d88b, ,d8     I8, `YbadP' ,d88b, _,88,_,d8,_    _              
- "Y8P"         `Y8888P"Y888P' "YY8P8P88P""Y8888P     `Y8888P"Y8888P""Y888P""Y8P""Y8888PP              
-     i8""8i     I8                                     8I                                8I           
-     `8,,8'     I8                                     8I                                8I           
-      `88'   88888888                                  8I                                8I           
-      dP"8,     I8                                     8I                                8I           
-     dP' `8a    I8      ,gggg,gg  ,ggg,,ggg,     ,gggg,8I    ,gggg,gg  ,gggggg,    ,gggg,8I    ,g,    
-    dP'   `Yb   I8     dP"  "Y8I ,8" "8P" "8,   dP"  "Y8I   dP"  "Y8I  dP""""8I   dP"  "Y8I   ,8'8,   
-_ ,dP'     I8  ,I8,   i8'    ,8I I8   8I   8I  i8'    ,8I  i8'    ,8I ,8'    8I  i8'    ,8I  ,8'  Yb  
-"888,,____,dP ,d88b, ,d8,   ,d8b,dP   8I   Yb,,d8,   ,d8b,,d8,   ,d8b,dP     Y8,,d8,   ,d8b,,8'_   8) 
-a8P"Y88888P" 88P""Y88P"Y8888P"`Y8P'   8I   `Y8P"Y8888P"`Y8P"Y8888P"`Y8P      `Y8P"Y8888P"`Y8P' "YY8P8P
-</pre>
+![banner](/src/banner.png)
 
 # AestheticStandards
 
